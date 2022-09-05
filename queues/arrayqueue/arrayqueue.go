@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/emirpasic/gods/lists/arraylist"
+	"github.com/emirpasic/gods/arraylist"
 	"github.com/emirpasic/gods/queues"
 )
 
